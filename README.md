@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repository
+
+Hello! This is a test message :-)
